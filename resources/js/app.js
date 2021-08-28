@@ -23,12 +23,12 @@ botui.message.bot({
                 botui.message.human({
                     delay: 1000,
                     loading: true,
-                    content: "Woah! 2+ Years ...that's awesome 😲"
+                    content: "Woah! 2+ Years... that's awesome 😲"
                 }).then(function () {
                     botui.message.bot({
                         delay: 1000,
                         loading: true,
-                        content: "Yup! but I am also interested in mentoring juniors for Gate Exam (All India 3nd toughest entrance exam) 📖)"
+                        content: "Yup! I am also interested in mentoring juniors for Gate Exam (All India 3rd toughest entrance exam) 📖)"
                     }).then(function () {
                         botui.message.bot({
                             delay: 1000,
