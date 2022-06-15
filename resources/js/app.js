@@ -28,7 +28,7 @@ botui.message.bot({
                     botui.message.bot({
                         delay: 1000,
                         loading: true,
-                        content: "Yup! I am also interested in mentoring juniors for Gate Exam (All India 3rd toughest entrance exam) 📖)"
+                        content: "Yup! I am also interested in mentoring juniors for Gate Exam (All India 3rd toughest entrance exam) 📖"
                     }).then(function () {
                         botui.message.bot({
                             delay: 1000,
