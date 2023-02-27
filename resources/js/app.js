@@ -18,7 +18,7 @@ botui.message.bot({
             botui.message.bot({
                 delay: 1000,
                 loading: true,
-                content: "I'm a software engineer with 3 years of experience"
+                content: "I'm a software engineer with 3+ years of experience"
             }).then(function () {
                 botui.message.human({
                     delay: 1000,
@@ -33,7 +33,7 @@ botui.message.bot({
                         botui.message.bot({
                             delay: 1000,
                             loading: true,
-                            content: "So... I'm a also a Mentor at my part time 🎓"
+                            content: "So... I'm a also a Mentor at my free time 🎓"
                         }).then(function () {
                             botui.message.human({
                                 delay: 1000,
@@ -43,12 +43,12 @@ botui.message.bot({
                                 botui.message.bot({
                                     delay: 1000,
                                     loading: true,
-                                    content: "I like to program cool things 👨‍💻like this bot 🤖 and..."
+                                    content: "I like to program cool things 👨‍💻 like this bot 🤖 and..."
                                 }).then(function () {
                                     botui.message.bot({
                                         delay: 1000,
                                         loading: true,
-                                        content: "love to play Cricket 🏏 and do Swimming 🏊‍"
+                                        content: "I also love to play Cricket 🏏 and do Swimming 🏊‍"
                                     }).then(function () {
                                         botui.message.human({
                                             delay: 1000,
