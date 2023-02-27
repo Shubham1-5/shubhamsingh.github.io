@@ -18,7 +18,7 @@ botui.message.bot({
             botui.message.bot({
                 delay: 1000,
                 loading: true,
-                content: "I'm a software engineer with 3+ years of experience"
+                content: "I'm a Software Engineer at Oracle with 3+ years of experience"
             }).then(function () {
                 botui.message.human({
                     delay: 1000,
@@ -48,7 +48,7 @@ botui.message.bot({
                                     botui.message.bot({
                                         delay: 1000,
                                         loading: true,
-                                        content: "I also love to play Cricket 🏏 and do Swimming 🏊‍"
+                                        content: "also love to play Cricket 🏏 and do Swimming 🏊‍"
                                     }).then(function () {
                                         botui.message.human({
                                             delay: 1000,
