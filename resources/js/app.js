@@ -13,7 +13,7 @@ botui.message.bot({
         botui.message.bot({
             delay: 1000,
             loading: true,
-            content: '..and I look weird as this 🤓![my-image](./resources/images/shubham.jpg)'
+            content: '..and I look as weird as this 🤓![my-image](./resources/images/shubham.jpg)'
         }).then(function () {
             botui.message.bot({
                 delay: 1000,
@@ -28,45 +28,41 @@ botui.message.bot({
                     botui.message.bot({
                         delay: 1000,
                         loading: true,
-                        content: "Yup! I am also interested in mentoring juniors for Gate Exam (All India 3rd toughest entrance exam) 📖"
+                        content: "Yup! I am also interested in mentoring juniors for the Gate Exam (the 3rd toughest entrance exam in India). 📖"
                     }).then(function () {
                         botui.message.bot({
                             delay: 1000,
                             loading: true,
-                            content: "So... I'm a also a Mentor at my free time 🎓"
+                            content: "So... I'm also a mentor in my free time. 🎓"
                         }).then(function () {
                             botui.message.human({
                                 delay: 1000,
                                 loading: true,
-                                content: "Impressive 👏 What else you like to do ?"
+                                content: "Impressive 👏 What else do you like to do?"
                             }).then(function () {
                                 botui.message.bot({
                                     delay: 1000,
                                     loading: true,
-                                    content: "I like to program cool things 👨‍💻 like this bot 🤖 and..."
+                                    content: "I like to program cool things 👨‍💻 like this bot 🤖, and..."
                                 }).then(function () {
                                     botui.message.bot({
                                         delay: 1000,
                                         loading: true,
-                                        content: "also love to play Cricket 🏏 and do Swimming 🏊‍"
+                                        content: "also love to play Cricket 🏏 and swim 🏊‍"
                                     }).then(function () {
                                         botui.message.human({
                                             delay: 1000,
                                             loading: true,
-                                            content: "Great! You seem to be a cool guy 👌 but how can I contact you ?"
+                                            content: "Great! You seem to be a cool guy 👌, but how can I contact you?"
                                         }).then(function () {
                                             botui.message.bot({
                                                 delay: 1000,
                                                 loading: true,
-                                                content: "Sure! You can !(phone) on [8981188387](tel:+918981188387)"
+                                                content: "Sure! You can !(envelope) me at [singh.shbhm90@gmail.com](mailto:singh.shbhm90@gmail.com)^"
                                             })
                                             botui.message.bot({
                                                 delay: 1500,
-                                                content: "!(envelope) me at [singh.shbhm90@gmail.com](mailto:singh.shbhm90@gmail.com)^"
-                                            })
-                                            botui.message.bot({
-                                                delay: 2000,
-                                                content: "or you can connect with me on !(linkedin-square) 👉 [here](https://www.linkedin.com/in/shubham-singh-38b650126/)^"
+                                                content: "OR you can connect with me on !(linkedin-square) 👉 [here](https://www.linkedin.com/in/shubham-singh-38b650126/)^"
                                             }).then(function () {
                                                 botui.message.human({
                                                     delay: 1000,
