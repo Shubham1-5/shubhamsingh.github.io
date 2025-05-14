@@ -18,7 +18,7 @@ botui.message.bot({
             botui.message.bot({
                 delay: 1000,
                 loading: true,
-                content: "I'm a Senior Software Engineer at Visa with 5+ years of experience"
+                content: "I'm a Senior Software Engineer at Visa with 6+ years of experience"
             }).then(function () {
                 botui.message.human({
                     delay: 1000,
