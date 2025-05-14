@@ -23,7 +23,7 @@ botui.message.bot({
                 botui.message.human({
                     delay: 1000,
                     loading: true,
-                    content: "Woah! 4+ Years... that's awesome 😲"
+                    content: "Woah! 6+ Years... that's awesome 😲"
                 }).then(function () {
                     botui.message.bot({
                         delay: 1000,
